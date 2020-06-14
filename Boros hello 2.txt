@@ -1,4 +1,4 @@
-Helloka ismét Június 14.-én.
+﻿Helloka ismét Június 14.-én.
 ismétlés 1
 ismétlés 1
 ismétlés 1
@@ -9,3 +9,4 @@ ismétlés 2
 ismétlés 2
 a githubba már beregisztráltam.
 Máshová mentem el. boros 2-be
+sikerült.
